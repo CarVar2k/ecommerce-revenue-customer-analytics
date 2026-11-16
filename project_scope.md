@@ -1,16 +1,14 @@
-# Project Scope — E-Commerce Revenue & Customer Intelligence
+# Project Preview: E-Commerce Revenue & Customer Analytics
 
 ## 1. Business Context
 
-MercadoVista Commerce Analytics is a fictional Brazilian marketplace seeking to understand its historical commercial and operational performance.
-
-The analysis will use public Olist transaction records.
+MercadoAlfabeto Commerce Analytics is a fictional Brazilian marketplace seeking to understand its historical commercial and operational performance. Their analysis will use public Olist transaction records.
 
 ## 2. Primary Objective
 
 Identify measurable opportunities to improve revenue performance, customer engagement, and delivery-related customer experience.
 
-## 3. Scope
+## 3. Preview
 
 **Included:**
 - Historical merchandise sales analysis
