@@ -8,7 +8,7 @@ This portfolio project investigates historical e-commerce sales performance, cus
 
 **Tools:** Microsoft Excel, MySQL, Python, Tableau, R Programming
 
-**Status:** Phase 1 — Business Understanding & Data Foundation
+**Status:** In-Progress
 
 ## Business Problem
 
