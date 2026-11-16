@@ -2,7 +2,7 @@
 
 ### Database Integrity
 
-Eleven primary-key, composite-key, and foreign-key validation checks were completed using Python and pandas.
+After using Python(pandas, numpy); there were a total of eleven primary-key, composite-key, and foreign-key checked and validated upon investigation necessary for completion.
 
 **Results:**
 - Validation checks passed: 11/11
