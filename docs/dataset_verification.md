@@ -28,16 +28,12 @@ The results support proceeding with relational database design for the core tran
 
 ### Analytical Implications
 
-The dataset contains incomplete calendar years in 2016 and 2018. Annual comparisons must account for differences in observation periods.
-
-Eight orders marked as delivered lack actual customer delivery timestamps. These observations will be excluded from calculations requiring valid delivery dates, while remaining available for other eligible analyses.
+The dataset contains incomplete calendar years in 2016 and 2018. Annual comparisons must account for differences in observation periods. There were eight orders marked as delivered which lacked actual customer delivery timestamps. However, these observations will be excluded from calculations requiring valid delivery dates while remaining available for other eligible analyses.
 
 ### Outstanding Data Quality Issue
 
-The geolocation dataset contains 647,506 rows, compared with approximately 1,000,163 rows in the commonly distributed source.
-
-The original geolocation CSV must be verified before creating geographic lookup tables.
+The geolocation dataset contains 647,506 rows, compared with approximately 1,000,163 rows in the commonly distributed source. Although, the original geolocation CSV must be verified before creating geographic lookup tables.
 
 ### Conclusion
 
-Core transactional data passed the initial identifier and relationship validation checks. The project can proceed to data dictionary development and relational database design, with geographic source verification remaining open.
+Overall, the core transactional data passed the initial identifier and relationship validation checks. The project can proceed to data dictionary development and relational database design with geographic source verification remaining open onto the next step using SQL.
