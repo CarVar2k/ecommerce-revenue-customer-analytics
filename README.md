@@ -75,4 +75,4 @@ The dataset does not provide complete product cost, advertising expense, or pric
 
 ## Project Status
 
-Phase 1, Step 1: Business understanding and project framing — In progress.
+In progress
