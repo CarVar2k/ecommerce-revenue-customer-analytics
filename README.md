@@ -12,9 +12,7 @@ This portfolio project investigates historical e-commerce sales performance, cus
 
 ## Business Problem
 
-Marketplace leadership needs a better understanding of revenue performance, customer retention, and operational efficiency.
-
-The objective is to transform historical transaction data into actionable business insights that can support strategic decisions.
+Marketplace leadership needs a better understanding of revenue performance, customer retention, and operational efficiency. My objective is to transform historical transaction data into actionable business insights that can support strategic decisions.
 
 ## Project Objectives
 
