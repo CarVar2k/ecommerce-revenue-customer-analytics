@@ -2,7 +2,7 @@
 
 ## 1. Business Context
 
-MercadoAlfabeto Commerce Analytics is a fictional Brazilian marketplace seeking to understand its historical commercial and operational performance. Their analysis will use public Olist transaction records.
+MercadoGente Commerce Analytics is a fictional Brazilian marketplace seeking to understand its historical commercial and operational performance. Their analysis will use public Olist transaction records.
 
 ## 2. Primary Objective
 
