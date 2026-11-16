@@ -1,4 +1,4 @@
-# E-Commerce Revenue & Customer Intelligence
+# E-Commerce Revenue & Customer Analytics
 
 ## Project Overview
 
