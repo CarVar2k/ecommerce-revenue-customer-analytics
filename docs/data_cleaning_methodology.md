@@ -1,24 +1,24 @@
 # Data Cleaning Methodology
 
 ## Project
-E-Commerce Revenue & Customer Intelligence
+E-Commerce Revenue & Customer Analytics
 
 ## Objective
-Prepare the Olist e-commerce datasets for relational database loading and reproducible business analysis.
+Prepare the Olist e-commerce datasets for relational database loading and reproducible business analysis targeting the Brazil population.
 
 ## Tools
-Python, pandas, Jupyter Notebook, MySQL
+Python(pandas, numpy), Jupyter Notebook, SQL
 
 ## Data Preservation
-Original CSV files are retained unchanged. All transformations are performed on working copies.
+Original CSV files are retained unchanged. All transformations on Jupyter Notebook are performed on working copies of the original vs. clean.
 
 ## Cleaning Rules
 
 ### Identifiers
-Primary and foreign-key identifiers are preserved without modification.
+Primary and foreign-key identifiers are remained preserved without modification.
 
 ### Postal Codes
-Customer, seller, and geolocation ZIP prefixes are converted to five-character strings to preserve leading zeros.
+Customer, seller, and geolocation ZIP prefixes are converted to five-character strings through Python to preserve leading zeros before transitioning to SQL.
 
 ### Dates
 Timestamp columns are parsed into datetime values. Invalid conversions are audited before export.
@@ -33,9 +33,7 @@ Timestamp columns are parsed into datetime values. Invalid conversions are audit
 Negative prices, freight charges, payment amounts, and invalid review scores are flagged for investigation.
 
 ### Geolocation
-The geographic dataset requires additional source verification because its row count differs from the commonly distributed Olist dataset.
-
-Exact duplicates are investigated in a separate derived DataFrame. No raw geographic records are overwritten.
+The geographic dataset requires additional source verification because its row count differs from the commonly distributed Olist dataset. Exact duplicates are investigated in a separate derived DataFrame. No raw geographic records are overwritten.
 
 ## Validation
 The cleaning process includes:
@@ -48,7 +46,7 @@ The cleaning process includes:
 - Numeric validation
 
 ## Results
-To be completed using the actual outputs from the Python cleaning notebook.
+In Progress: To be completed using the actual outputs from the Python cleaning notebook before importing to SQL, etc.
 
 ## Limitations
 Cleaning and validation do not establish that every source record is accurate. Observational data may contain reporting errors, missing information, and measurement limitations.
