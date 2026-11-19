@@ -1,0 +1,14 @@
+Validation_Check,Violations
+Duplicate customer IDs,0
+Duplicate order IDs,0
+Duplicate product IDs,0
+Duplicate seller IDs,0
+Duplicate order-item keys,0
+Duplicate payment keys,0
+Duplicate review-order keys,0
+Orders without customers,0
+Items without orders,0
+Items without products,0
+Items without sellers,0
+Payments without orders,0
+Reviews without orders,0
