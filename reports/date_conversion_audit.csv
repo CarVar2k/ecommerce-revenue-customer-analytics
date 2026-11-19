@@ -1,0 +1,9 @@
+Table,Column,Original_Nulls,Cleaned_Nulls,New_Invalid_Dates
+Orders,order_purchase_timestamp,0,0,0
+Orders,order_approved_at,160,160,0
+Orders,order_delivered_carrier_date,1783,1783,0
+Orders,order_delivered_customer_date,2965,2965,0
+Orders,order_estimated_delivery_date,0,0,0
+Order Items,shipping_limit_date,0,0,0
+Reviews,review_creation_date,0,0,0
+Reviews,review_answer_timestamp,0,0,0
