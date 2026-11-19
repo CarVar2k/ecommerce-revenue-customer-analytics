@@ -1,0 +1,10 @@
+Table,Expected_Columns,Actual_Columns,Match
+Customers,5,5,True
+Geolocation,5,5,True
+Order Items,7,7,True
+Payments,5,5,True
+Reviews,7,7,True
+Orders,8,8,True
+Products,9,9,True
+Sellers,4,4,True
+Category Translation,2,2,True
